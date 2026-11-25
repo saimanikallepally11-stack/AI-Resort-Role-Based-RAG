@@ -1,0 +1,45 @@
+
+AI RESORT - OPERATIONS MANAGER KNOWLEDGE BASE
+
+1. OPERATIONS OVERVIEW
+The resort operations team coordinates guest services, room management, and service requests.
+Managers monitor service quality and operational performance.
+
+2. GUEST EXPERIENCE
+The historical dataset contains 12,000 guest records.
+Average guest experience score: 73.31.
+Positive sentiment: 9,198 guests (76.65%).
+Neutral sentiment: 1,594 guests (13.28%).
+Negative sentiment: 1,208 guests (10.07%).
+
+3. REVENUE PERFORMANCE
+Historical total revenue: INR 482,254,721.02.
+Average revenue per booking: INR 40,187.89.
+Website booking source generated approximately INR 129,716,000 in revenue.
+These figures describe the historical dataset and are not live financial figures.
+
+4. BOOKING PERFORMANCE
+Historical checked-out bookings: 4,021.
+Historical checked-in bookings: 3,682.
+Historical confirmed bookings: 2,354.
+Historical cancelled bookings: 1,140.
+Historical no-show bookings: 803.
+Historical cancellation rate: 9.5%.
+Historical no-show rate: 6.69%.
+
+5. SERVICE REQUESTS
+Concierge requests recorded: 1,238.
+Spa Booking requests recorded: 1,234.
+Average historical service response time: 19.86 minutes.
+Managers should monitor unresolved requests and coordinate with service teams.
+
+6. MANAGEMENT RESPONSIBILITIES
+Monitor guest satisfaction and service quality.
+Review operational performance and historical trends.
+Coordinate departments to resolve service delays.
+Escalate serious guest complaints through authorized procedures.
+
+7. DATA ACCURACY
+Historical statistics must not be presented as live operational information.
+Do not invent current occupancy, revenue, staffing, or room availability.
+Use verified operational systems for current information.
